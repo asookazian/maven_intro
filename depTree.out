@@ -1,0 +1,18 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------< com.medata:mvnintro >-------------------------
+[INFO] Building mvnintro 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ mvnintro ---
+[INFO] com.medata:mvnintro:jar:1.0-SNAPSHOT
+[INFO] +- org.springframework:spring-core:jar:4.3.9.RELEASE:compile
+[INFO] |  \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] \- junit:junit:jar:3.8.1:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.798 s
+[INFO] Finished at: 2023-03-17T14:00:31-07:00
+[INFO] ------------------------------------------------------------------------
